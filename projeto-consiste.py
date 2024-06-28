@@ -47,7 +47,7 @@ def linha_para_string_unica(df):
         nome = row['Primeiro Nome']
         sobrenome = row['Sobrenomes']
         imc = row['IMC']
-        return f"{nome} {sobrenome} {imc}"
+        return "Exemplo de como ficou o tratamento: "+ f"{nome} {sobrenome} {imc}"
     else:
         return "DataFrame está vazio"
 
