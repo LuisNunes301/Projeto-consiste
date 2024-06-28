@@ -1,7 +1,6 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 
-pessoas_Df = pd.read_csv("dataset\DATASET.CSV",delimiter=';')
+pessoas_Df = pd.read_csv("dataset/DATASET.CSV",delimiter=';')
 pd.options.mode.chained_assignment = None
 
 df_tmp = pessoas_Df
