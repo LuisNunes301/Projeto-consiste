@@ -1,100 +1,100 @@
 Primeiro Nome	Sobrenomes	IMC
-felipe	neves da hora	24.72
-sandro  	barbosa	30.24
-maycon	da silva ferreira	30.19
-jeferson   	 Oliveira	26.14
-manuel	gomes   vieira	19.46
- emanuel	 da silva	33.76
-isis	 santanna  de  Deus	23.05
-  maria	santana bezerra 	20.83
-Alessandro 	 Viana 	20.76
-sandro	barbosa	31.62
-  Almir	 Valente  	27.12
-Bruno	Santana  Filho	25.21
-marta	santos oliveira 	21.48
-michele	Santanna Da Silva	23.53
- Alex	Da  Silva  	22.81
-Daniel	 Alexandre 	17.06
-Manuella	 Pereira	23.93
-   Matheus	  Silva	22.85
-Giuderlan	 Antonio Neto	20.47
-  Geisa	 Ferreira  Da  Silva	27.57
-neymar 	josefino andrade	35.11
-João	Michelango	63.29
-Gabriela  	 Xavier Ferreira	20.07
-Michelangelo	de La Siena	27.7
-Ivanor	de Jesus  	26.19
-Cienne  	Augusta Conceição	22.74
-     Arthur 	  Santana	21.57
-amaro	 Luiz	12.54
-Alzenrau	 Silva	16.75
-caio	sena	28.27
-Romildo	 da Silva	29.75
-Lindomar	Catillo	29.14
-Felizberto	Felizmino da  Felicidade 	25.0
-   Caroline	da  boa Mente	22.32
-Bruna	Giuseppe	23.7
-  Carlos	Magno	35.68
-Adailton   	    Ferreira	21.87
-Jandersson	Almeida  Santos	26.6
-Joao	 Joaquim José da  Silva	27.45
-Allan	Santana	22.24
-Danielle	   Santos	20.99
-Valdevino	  Soares	21.33
- Maria	 Silva pereira	10.05
-Ivanorvilson	Alberto Lima	24.78
-Camelia    	 Joselina 	63.49
-medinchina	casais	32.23
-Alcebíades	Augustino da Assunção	26.54
-Masha 	  Alcântara	24.92
-Livia	  Duarte  	25.71
-Romerson	Simpson Silva	29.42
-  Mirelle 	da Fonseca Filha	22.82
- Sregio	 carvalho	9.8
-Filadélfio	 Alfrônio	25.83
-   Marcos	   Silva	24.27
-Afreim	isotopo	34.6
- Agatha	   barreto  Da  Silva	19.13
-Emmanoel	Junior	30.39
- Eliza 	  Trindade	24.41
-Aminoã	       gabriela ferraz	17.88
-Melissa	  fagundes	33.2
-Dean	   Winchester	34.93
-Liumar	 Santos Oliveira 	26.84
- Adalfreda	  da   silva Ferreira	20.52
-   Jean	 Santos	17.88
-anita 	oliveira 	0.0
-   Jeane	 Santana	16.74
-Pablo	Vittar	0.0
-weliton	viana	23.46
-quixote	de la mancha	24.93
-Arthur	  Carvalho  jose	31.98
-   Eliane	  Santos	22.22
-Ezrael	Martins	19.47
-  dulcinesia	del troboso	20.65
- leonardo	  oliveira  Castro	17.28
-  Aldiran	Sousa	19.95
-josefina	bezerra   oliveira	28.08
-Pirlo	James Silva	31.9
-caio	  correira  Silva	24.1
-Gilmar	 de   Santana	30.85
-Josefa   	  Serafina	23.67
-Cameloro	CRISPIM	17.07
-Policarpo	Quaresma	35.54
-Baskara	 da Silva Ferrrrrreira	25.2
-Fiuki	 Filho	21.95
-Fátima   	  Bernardes	19.22
-sergio 	malandro 	29.31
-Theo	  Farias	30.7
-Wallace	   Bonner	28.77
-Yumi	Bachió	25.67
-  emily	Souza   ribeiro	23.9
-Whind	 Piauí	23.94
-Alane	   Silva	17.34
-Luana	 Lima  Ferreira	35.64
-Inoswaldo	 Kamacho	57.69
-Luna	Lunara Lua	20.23
-hulk 	jose	24.65
-maria	  gomes	23.85
-paulo	 rocha	24.52
-Luane                	 Santana   Teixeira	22.57
+FELIPE	NEVES DA HORA	24.72
+SANDRO  	BARBOSA	30.24
+MAYCON	DA SILVA FERREIRA	30.19
+JEFERSON   	 OLIVEIRA	26.14
+MANUEL	GOMES   VIEIRA	19.46
+ EMANUEL	 DA SILVA	33.76
+ISIS	 SANTANNA  DE  DEUS	23.05
+  MARIA	SANTANA BEZERRA 	20.83
+ALESSANDRO 	 VIANA 	20.76
+SANDRO	BARBOSA	31.62
+  ALMIR	 VALENTE  	27.12
+BRUNO	SANTANA  FILHO	25.21
+MARTA	SANTOS OLIVEIRA 	21.48
+MICHELE	SANTANNA DA SILVA	23.53
+ ALEX	DA  SILVA  	22.81
+DANIEL	 ALEXANDRE 	17.06
+MANUELLA	 PEREIRA	23.93
+   MATHEUS	  SILVA	22.85
+GIUDERLAN	 ANTONIO NETO	20.47
+  GEISA	 FERREIRA  DA  SILVA	27.57
+NEYMAR 	JOSEFINO ANDRADE	35.11
+JOÃO	MICHELANGO	63.29
+GABRIELA  	 XAVIER FERREIRA	20.07
+MICHELANGELO	DE LA SIENA	27.7
+IVANOR	DE JESUS  	26.19
+CIENNE  	AUGUSTA CONCEIÇÃO	22.74
+     ARTHUR 	  SANTANA	21.57
+AMARO	 LUIZ	12.54
+ALZENRAU	 SILVA	16.75
+CAIO	SENA	28.27
+ROMILDO	 DA SILVA	29.75
+LINDOMAR	CATILLO	29.14
+FELIZBERTO	FELIZMINO DA  FELICIDADE 	25.0
+   CAROLINE	DA  BOA MENTE	22.32
+BRUNA	GIUSEPPE	23.7
+  CARLOS	MAGNO	35.68
+ADAILTON   	    FERREIRA	21.87
+JANDERSSON	ALMEIDA  SANTOS	26.6
+JOAO	 JOAQUIM JOSÉ DA  SILVA	27.45
+ALLAN	SANTANA	22.24
+DANIELLE	   SANTOS	20.99
+VALDEVINO	  SOARES	21.33
+ MARIA	 SILVA PEREIRA	10.05
+IVANORVILSON	ALBERTO LIMA	24.78
+CAMELIA    	 JOSELINA 	63.49
+MEDINCHINA	CASAIS	32.23
+ALCEBÍADES	AUGUSTINO DA ASSUNÇÃO	26.54
+MASHA 	  ALCÂNTARA	24.92
+LIVIA	  DUARTE  	25.71
+ROMERSON	SIMPSON SILVA	29.42
+  MIRELLE 	DA FONSECA FILHA	22.82
+ SREGIO	 CARVALHO	9.8
+FILADÉLFIO	 ALFRÔNIO	25.83
+   MARCOS	   SILVA	24.27
+AFREIM	ISOTOPO	34.6
+ AGATHA	   BARRETO  DA  SILVA	19.13
+EMMANOEL	JUNIOR	30.39
+ ELIZA 	  TRINDADE	24.41
+AMINOÃ	       GABRIELA FERRAZ	17.88
+MELISSA	  FAGUNDES	33.2
+DEAN	   WINCHESTER	34.93
+LIUMAR	 SANTOS OLIVEIRA 	26.84
+ ADALFREDA	  DA   SILVA FERREIRA	20.52
+   JEAN	 SANTOS	17.88
+ANITA 	OLIVEIRA 	0.0
+   JEANE	 SANTANA	16.74
+PABLO	VITTAR	0.0
+WELITON	VIANA	23.46
+QUIXOTE	DE LA MANCHA	24.93
+ARTHUR	  CARVALHO  JOSE	31.98
+   ELIANE	  SANTOS	22.22
+EZRAEL	MARTINS	19.47
+  DULCINESIA	DEL TROBOSO	20.65
+ LEONARDO	  OLIVEIRA  CASTRO	17.28
+  ALDIRAN	SOUSA	19.95
+JOSEFINA	BEZERRA   OLIVEIRA	28.08
+PIRLO	JAMES SILVA	31.9
+CAIO	  CORREIRA  SILVA	24.1
+GILMAR	 DE   SANTANA	30.85
+JOSEFA   	  SERAFINA	23.67
+CAMELORO	CRISPIM	17.07
+POLICARPO	QUARESMA	35.54
+BASKARA	 DA SILVA FERRRRRREIRA	25.2
+FIUKI	 FILHO	21.95
+FÁTIMA   	  BERNARDES	19.22
+SERGIO 	MALANDRO 	29.31
+THEO	  FARIAS	30.7
+WALLACE	   BONNER	28.77
+YUMI	BACHIÓ	25.67
+  EMILY	SOUZA   RIBEIRO	23.9
+WHIND	 PIAUÍ	23.94
+ALANE	   SILVA	17.34
+LUANA	 LIMA  FERREIRA	35.64
+INOSWALDO	 KAMACHO	57.69
+LUNA	LUNARA LUA	20.23
+HULK 	JOSE	24.65
+MARIA	  GOMES	23.85
+PAULO	 ROCHA	24.52
+LUANE                	 SANTANA   TEIXEIRA	22.57
