@@ -40,12 +40,23 @@ def salvar_nome_sobrenome_imc_txt(df, file_path):
             # Escrever no arquivo com um espaço entre nome e sobrenome
             f.write(f"{nome} {sobrenome} {imc}\n")
             
+def linha_para_string_unica(df):
+    # Selecionar a primeira linha do DataFrame
+    if not df.empty:
+        row = df.iloc[0]
+        nome = row['Primeiro Nome']
+        sobrenome = row['Sobrenomes']
+        imc = row['IMC']
+        return f"{nome} {sobrenome} {imc}"
+    else:
+        return "DataFrame está vazio"
+
 calcular_imc(df_tmp)
 df_resultado = mostrar_dados(df_tmp)
 
+linha_str = linha_para_string_unica(df_resultado)
+print(linha_str)
+
 arquivo_saida = 'resultado_imc.txt'
-
-# Chamar a função para salvar os dados no arquivo txt
-salvar_nome_sobrenome_imc_txt(df_resultado, arquivo_saida)
-
-print(f"Os resultados foram salvos em '{arquivo_saida}'.")
+salvar_nome_sobrenome_imc_txt(df_resultado, arquivo_saida) #Chamar a função para salvar os dados no arquivo txt 
+print(f"Os resultados foram salvos em '{arquivo_saida}'.") # printando para que o salvamento funcione
